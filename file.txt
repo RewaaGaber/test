@@ -1,4 +1,8 @@
 hello
+<<<<<<< HEAD
 branch 
 branch test
 2 commit (hahah)
+=======
+newline2 main
+>>>>>>> main
