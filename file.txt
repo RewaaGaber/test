@@ -1,8 +1,12 @@
 hello
-<<<<<<< HEAD
-branch 
+ 
+newline2 main
 branch test
 2 commit (hahah)
-=======
-newline2 main
->>>>>>> main
+
+
+
+changes on ui 
+changes on ui2
+changes on ui3
+changes on ui4
